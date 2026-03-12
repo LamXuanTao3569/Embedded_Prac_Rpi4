@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++ --sysroot=/home/taolam/rpi-cross/rpi-animation/build_jet/sysroot CMakeFiles/animation.dir/animation.cpp.o -o animation  -lSDL2 -lGLESv2 -lEGL 

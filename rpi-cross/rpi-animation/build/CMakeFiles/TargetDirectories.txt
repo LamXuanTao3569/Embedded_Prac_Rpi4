@@ -1,0 +1,3 @@
+/home/taolam/rpi-cross/rpi-animation/build/CMakeFiles/animation.dir
+/home/taolam/rpi-cross/rpi-animation/build/CMakeFiles/edit_cache.dir
+/home/taolam/rpi-cross/rpi-animation/build/CMakeFiles/rebuild_cache.dir

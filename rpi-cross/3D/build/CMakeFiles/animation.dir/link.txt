@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++ --sysroot="~/rpi-sysroot"  -static-libgcc -static-libstdc++ CMakeFiles/animation.dir/main.cpp.o CMakeFiles/animation.dir/shader.cpp.o CMakeFiles/animation.dir/texture.cpp.o -o animation   -L/home/taolam/rpi-sysroot/usr/lib  -Wl,-rpath,/usr/lib -lSDL2 -lSDL2_image -lGLESv2 -lglapi -lm 
